@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <Options DocumentManagerState="PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxEb2N1bWVudE1hbmFnZXJTdGF0ZSB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIiB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIj4NCiAgPERvY3VtZW50RGVzY3JpcHRpb25zPg0KICAgIDxEb2N1bWVudERlc2NyaXB0aW9uPg0KICAgICAgPFNlcmlhbGl6ZWRDb250cm9sPlZpZXdJRD1DaHVvbmdUcmluaERhb1Rhb19MaXN0VmlldyZhbXA7T2JqZWN0S2V5PSZhbXA7U2Nyb2xsUG9zaXRpb249JmFtcDtPYmplY3RDbGFzc05hbWU9UUxEVC5Nb2R1bGUuQnVzaW5lc3NPYmplY3RzLkNodW9uZ1RyaW5oRGFvVGFvPC9TZXJpYWxpemVkQ29udHJvbD4NCiAgICAgIDxJbWFnZU5hbWU+Qk9fVW5rbm93bjwvSW1hZ2VOYW1lPg0KICAgICAgPENhcHRpb24+Q2jGsMahbmcgVHLDrG5oIMSQw6BvIFThuqFvPC9DYXB0aW9uPg0KICAgICAgPENvbnRyb2xOYW1lPjcwYjQwODU2LTQ4NGEtNDc2ZS1iZDAyLWJmNDhlOTg2ZDg5MTwvQ29udHJvbE5hbWU+DQogICAgPC9Eb2N1bWVudERlc2NyaXB0aW9uPg0KICAgIDxEb2N1bWVudERlc2NyaXB0aW9uPg0KICAgICAgPFNlcmlhbGl6ZWRDb250cm9sPlZpZXdJRD1DaHVvbmdUcmluaERhb1Rhb19EZXRhaWxWaWV3JmFtcDtPYmplY3RLZXk9ODNkYWE2MWEtYjI2NS00MmFjLWI5NDgtYzVmMjE2Yzg1YjliJmFtcDtTY3JvbGxQb3NpdGlvbj0mYW1wO09iamVjdENsYXNzTmFtZT1RTERULk1vZHVsZS5CdXNpbmVzc09iamVjdHMuQ2h1b25nVHJpbmhEYW9UYW8mYW1wO21vZGU9RWRpdDwvU2VyaWFsaXplZENvbnRyb2w+DQogICAgICA8SW1hZ2VOYW1lPkJPX1Vua25vd248L0ltYWdlTmFtZT4NCiAgICAgIDxDYXB0aW9uPkzhuq1wIFRyw6xuaCBGRSAtIENoxrDGoW5nIFRyw6xuaCDEkMOgbyBU4bqhbzwvQ2FwdGlvbj4NCiAgICAgIDxDb250cm9sTmFtZT40YzBjMWVmYy1jZDRmLTQ4ZTgtYWE5OC0wNGYxOWZkMzQ4YTA8L0NvbnRyb2xOYW1lPg0KICAgIDwvRG9jdW1lbnREZXNjcmlwdGlvbj4NCiAgICA8RG9jdW1lbnREZXNjcmlwdGlvbj4NCiAgICAgIDxTZXJpYWxpemVkQ29udHJvbD5WaWV3SUQ9TW9uSG9jX0xpc3RWaWV3JmFtcDtPYmplY3RLZXk9JmFtcDtTY3JvbGxQb3NpdGlvbj0mYW1wO09iamVjdENsYXNzTmFtZT1RTERULk1vZHVsZS5CdXNpbmVzc09iamVjdHMuTW9uSG9jPC9TZXJpYWxpemVkQ29udHJvbD4NCiAgICAgIDxJbWFnZU5hbWU+Qk9fVW5rbm93bjwvSW1hZ2VOYW1lPg0KICAgICAgPENhcHRpb24+TcO0biBI4buNYzwvQ2FwdGlvbj4NCiAgICAgIDxDb250cm9sTmFtZT44NzQ2OWU2MS1kYWZjLTQ2MGMtYjc1ZC1lNDk5ZjlhMTQ5ZTM8L0NvbnRyb2xOYW1lPg0KICAgIDwvRG9jdW1lbnREZXNjcmlwdGlvbj4NCiAgICA8RG9jdW1lbnREZXNjcmlwdGlvbj4NCiAgICAgIDxTZXJpYWxpemVkQ29udHJvbD5WaWV3SUQ9TW9uSG9jX0RldGFpbFZpZXcmYW1wO09iamVjdEtleT1jYjA2NDk3Mi1kMDhiLTRiMDYtYjRlNi1jNjQ3YWJlYzUyZjcmYW1wO1Njcm9sbFBvc2l0aW9uPSZhbXA7T2JqZWN0Q2xhc3NOYW1lPVFMRFQuTW9kdWxlLkJ1c2luZXNzT2JqZWN0cy5Nb25Ib2MmYW1wO21vZGU9RWRpdDwvU2VyaWFsaXplZENvbnRyb2w+DQogICAgICA8SW1hZ2VOYW1lPkJPX1Vua25vd248L0ltYWdlTmFtZT4NCiAgICAgIDxDYXB0aW9uPkpRdWVyeSAtIE3DtG4gSOG7jWM8L0NhcHRpb24+DQogICAgICA8Q29udHJvbE5hbWU+YTUwYmU4NDMtMmFhMy00MTIzLWFiYTAtZDQ0M2Y1ZTYzYTI0PC9Db250cm9sTmFtZT4NCiAgICA8L0RvY3VtZW50RGVzY3JpcHRpb24+DQogIDwvRG9jdW1lbnREZXNjcmlwdGlvbnM+DQogIDxWaWV3TGF5b3V0PmR3SUFBUElQb0hmeUFIZnlBYUIzOGdKMzhnT2hkL0lFQVBJQm9IZnlCZlNVQXFCMzhnWjM4Z2VoZC9JSUFQSUFvSGZ5Q1hmeUNxQjM4Z3QzOGdxZ2QvSU04Z0NnZC9JTmQvSUtvSGZ5RG5meUNxQjM4ZzkzOGhDaGQvSVJBUElBb1hmeUVnRHlBS0YzOGhNQThnQ2hkL0lVOGdmeUI2RjM4aFVBOGd5Z2QvSVdkL0lYb0hmeUdLQ2dkL0laOGdDZ2QvSWFkL0lib0hmeUhLQ2hkL0lkQVBJQW9IZnlIcUNnZC9JZmQvSWdvSGZ5SVhmeUlxQjM4aU9nb0hmeUpIZnlKYUIzOGlaMzhpZWhkL0lvQVBJTW9IZnlGbmZ5RjZCMzhoaWhvSGZ5R2ZJQm9IZnlHbmZ5RzZCMzhoeWdvWGZ5SFFEeUFLQjM4aDZnb0hmeUgzZnlLYUIzOGlGMzhpcWdkL0lqb2FCMzhpUjM4aXVnZC9JbWQvSW5vWGZ5TEFEeURLQjM4aFozOGhlZ2QvSVlvS0IzOGhueUFxQjM4aHAzOGh1Z2QvSWNvS0YzOGgwQThnQ2dkL0llb0tCMzhoOTM4aUNnZC9JaGQvSWlvSGZ5STZDZ2QvSWtkL0l0b0hmeUpuZnlKNkYzOGk0QThneWdkL0lXZC9JWG9IZnlHS0NnZC9JWjhnT2dkL0lhZC9JYm9IZnlIS0NoZC9JZEFQSUFvSGZ5SHFDZ2QvSWZkL0lnb0hmeUlYZnlJcUIzOGlPZ29IZnlKSGZ5TDZCMzhpWjM4aWVoZC9Jd0FQSUhvSGZ5TVhmeU1xQjM4ak1Bb0hmeUJuZnlCNkIzOGhueUFLRjM4alFBOGdLZ2QvSTFxZ0FBQUFBQUFQQS9vSGZ5Tm5meU42QjM4aVIzOGppZ2QvSW1kL0k1b1hmeU9nRHlCNkIzOGpGMzhqaWdkL0l6ZC9JWG9IZnlCbmZ5QjZCMzhobnlBS0YzOGpRQThnS2dkL0kxcWdBQUFBQUFBUEEvb0hmeU5uZnlONkIzOGlSMzhqdWdkL0ltZC9JNW9YZnlQQUR5QmFGMzhoMEE4Z0NnZC9JMDlMQUpvSGZ5R2ZJQW9IZnlKSGZ5RjZCMzhpWjM4ajN5UGc0alRHRjViM1YwVm1WeWMybHZiZ0FTSTB4aGVXOTFkRk5qWVd4bFJtRmpkRzl5RlVBeExGZHBaSFJvUFRKQU1TeElaV2xuYUhROU1oSkViMk4xYldWdWRGQnliM0JsY25ScFpYTUxUV0Y0VkdGaVYybGtkR2dMVDNKcFpXNTBZWFJwYjI0S1NHOXlhWHB2Ym5SaGJCZEViMk4xYldWdWRFZHliM1Z3VUhKdmNHVnlkR2xsY3hSRmJtRmliR1ZHY21WbFRHRjViM1YwVFc5a1pRZEVaV1poZFd4MEZVVnVZV0pzWlZOMGFXTnJlVk53YkdsMGRHVnljeGxEZFhOMGIyMVNaWE5wZW1WYWIyNWxWR2hwWTJ0dVpYTnpCVk4wZVd4bEdVWnNiMkYwUkc5amRXMWxiblJ6UVd4M1lYbHpUMjVVYjNBWlJteHZZWFJwYm1kRWIyTjFiV1Z1ZEVOdmJuUmhhVzVsY2cxRWIyTjFiV1Z1ZEhOSWIzTjBHa3h2WVdScGJtZEpibVJwWTJGMGIzSlFjbTl3WlhKMGFXVnpHa1J2WTNWdFpXNTBVMlZzWldOMGIzSlFjbTl3WlhKMGFXVnpGMWRwYm1SdmQzTkVhV0ZzYjJkUWNtOXdaWEowYVdWekJVbDBaVzF6QlVsMFpXMHhDbEJoY21WdWRFNWhiV1VPUkc5amRXMWxiblJIY205MWNEQUtTWE5UWld4bFkzUmxaQVZKYm1SbGVBdFhhVzVrYjNkVGRHRjBaUVpPYjNKdFlXd0dVR2x1Ym1Wa0NsQnliM0JsY25ScFpYTUtTWE5HYkc5aGRHbHVad2hNYjJOaGRHbHZiZ3hBTVN4WVBUQkFNU3haUFRBRVUybDZaUlZBTVN4WGFXUjBhRDB3UURFc1NHVnBaMmgwUFRBSVNYTkJZM1JwZG1VRVRtRnRaU1EzTUdJME1EZzFOaTAwT0RSaExUUTNObVV0WW1Rd01pMWlaalE0WlRrNE5tUTRPVEVJVkhsd1pVNWhiV1VJUkc5amRXMWxiblFGU1hSbGJUSU5RREVzV0Qwd1FESXNXVDAxT0J0QU5DeFhhV1IwYUQweU5EZ3dRRFFzU0dWcFoyaDBQVEV6TVRNa05HTXdZekZsWm1NdFkyUTBaaTAwT0dVNExXRmhPVGd0TURSbU1UbG1aRE0wT0dFd0JVbDBaVzB6SkRnM05EWTVaVFl4TFdSaFptTXRORFl3WXkxaU56VmtMV1UwT1RsbU9XRXhORGxsTXdWSmRHVnROQ1JoTlRCaVpUZzBNeTB5WVdFekxUUXhNak10WVdKaE1DMWtORFF6WmpWbE5qTmhNalFGU1hSbGJUVUdVR0Z5Wlc1MEJGSnZiM1FIUld4bGJXVnVkQVpNWlc1bmRHZ0pWVzVwZEZaaGJIVmxDRlZ1YVhSVWVYQmxCRk4wWVhJUlJHOWphMmx1WjBOdmJuUmhhVzVsY2pBUVJHOWphMmx1WjBOdmJuUmhhVzVsY2dWSmRHVnROaEZFYjJOcmFXNW5RMjl1ZEdGcGJtVnlNUVZKZEdWdE53MUViMk4xYldWdWRFZHliM1Z3PC9WaWV3TGF5b3V0Pg0KPC9Eb2N1bWVudE1hbmFnZXJTdGF0ZT4=">
+    <PrintingSettings Margins="100, 100, 100, 100" PageHeaderFooter="&lt;XtraSerializer version=&quot;1.0&quot; application=&quot;XtraPrintingPageHeaderFooter&quot;&gt;&#xD;&#xA;  &lt;property name=&quot;Header&quot; isnull=&quot;true&quot; iskey=&quot;true&quot;&gt;&#xD;&#xA;    &lt;property name=&quot;Content&quot; iskey=&quot;true&quot; value=&quot;0&quot; /&gt;&#xD;&#xA;    &lt;property name=&quot;LineAlignment&quot;&gt;Near&lt;/property&gt;&#xD;&#xA;    &lt;property name=&quot;Font&quot;&gt;Microsoft Sans Serif, 7.875pt&lt;/property&gt;&#xD;&#xA;  &lt;/property&gt;&#xD;&#xA;  &lt;property name=&quot;Footer&quot; isnull=&quot;true&quot; iskey=&quot;true&quot;&gt;&#xD;&#xA;    &lt;property name=&quot;Content&quot; iskey=&quot;true&quot; value=&quot;0&quot; /&gt;&#xD;&#xA;    &lt;property name=&quot;LineAlignment&quot;&gt;Near&lt;/property&gt;&#xD;&#xA;    &lt;property name=&quot;Font&quot;&gt;Microsoft Sans Serif, 7.875pt&lt;/property&gt;&#xD;&#xA;  &lt;/property&gt;&#xD;&#xA;&lt;/XtraSerializer&gt;" />
+  </Options>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="22.1.5.0" IsNewNode="True" />
+    <SchemaModule Name="SystemWindowsFormsModule" Version="22.1.5.0" IsNewNode="True" />
+  </SchemaModules>
+  <Templates>
+    <Template Id="DevExpress.ExpressApp.Win.Templates.LookupControlTemplate" IsNewNode="True">
+      <FormStates IsNewNode="True">
+        <FormState Id="HocVien_LookupListView" IsNewNode="True" />
+        <FormState Id="KhoaHoc_LookupListView" IsNewNode="True" />
+        <FormState Id="MonHoc_LookupListView" IsNewNode="True" />
+      </FormStates>
+    </Template>
+    <Template Id="DevExpress.ExpressApp.Win.Templates.LookupForm" IsNewNode="True">
+      <FormStates IsNewNode="True">
+        <FormState Id="Default" State="Normal" X="550" Y="391" Width="1884" Height="980" IsNewNode="True" />
+      </FormStates>
+    </Template>
+    <Template Id="DevExpress.ExpressApp.Win.Templates.Ribbon.DetailRibbonFormV2" IsNewNode="True">
+      <FormStates IsNewNode="True">
+        <FormState Id="BangDiemKhoaHoc_ListView" IsNewNode="True" />
+        <FormState Id="ChuongTrinhDaoTao_DetailView" IsNewNode="True" />
+        <FormState Id="ChuongTrinhDaoTao_ListView" IsNewNode="True" />
+        <FormState Id="DangKyHoc_DetailView" IsNewNode="True" />
+        <FormState Id="DangKyHoc_ListView" IsNewNode="True" />
+        <FormState Id="HocVien_DetailView" IsNewNode="True" />
+        <FormState Id="HocVien_ListView" IsNewNode="True" />
+        <FormState Id="KhoaHoc_DetailView" IsNewNode="True" />
+        <FormState Id="KhoaHoc_ListView" IsNewNode="True" />
+        <FormState Id="KhungChuongTrinh_DetailView" State="Normal" X="392" Y="392" Width="1600" Height="1162" IsNewNode="True" />
+        <FormState Id="KhungChuongTrinh_ListView" IsNewNode="True" />
+        <FormState Id="MonHoc_DetailView" State="Normal" X="49" Y="49" Width="1600" Height="1162" IsNewNode="True" />
+        <FormState Id="MonHoc_ListView" IsNewNode="True" />
+      </FormStates>
+    </Template>
+    <Template Id="DevExpress.ExpressApp.Win.Templates.Ribbon.LightStyleMainRibbonForm" DockManagerSettings="77u/PFh0cmFTZXJpYWxpemVyIHZlcnNpb249IjEuMCIgYXBwbGljYXRpb249IkRvY2tNYW5hZ2VyIj4NCiAgPHByb3BlcnR5IG5hbWU9IiNMYXlvdXRWZXJzaW9uIiAvPg0KICA8cHJvcGVydHkgbmFtZT0iI0xheW91dFNjYWxlRmFjdG9yIj5AMSxXaWR0aD0yQDEsSGVpZ2h0PTI8L3Byb3BlcnR5Pg0KICA8cHJvcGVydHkgbmFtZT0iQWxsb3dHbHlwaFNraW5uaW5nIj5mYWxzZTwvcHJvcGVydHk+DQogIDxwcm9wZXJ0eSBuYW1lPSJTdHlsZSI+RGVmYXVsdDwvcHJvcGVydHk+DQogIDxwcm9wZXJ0eSBuYW1lPSJBdXRvSGlkZGVuUGFuZWxDYXB0aW9uU2hvd01vZGUiPlNob3dGb3JBbGxQYW5lbHM8L3Byb3BlcnR5Pg0KICA8cHJvcGVydHkgbmFtZT0iQXV0b0hpZGVDb250YWluZXJzIiBpc2tleT0idHJ1ZSIgdmFsdWU9IjAiIC8+DQogIDxwcm9wZXJ0eSBuYW1lPSJEb2NraW5nT3B0aW9ucyIgaXNudWxsPSJ0cnVlIiBpc2tleT0idHJ1ZSI+DQogICAgPHByb3BlcnR5IG5hbWU9IkF1dG9IaWRlUGFuZWxWZXJ0aWNhbFRleHRPcmllbnRhdGlvbiI+RGVmYXVsdDwvcHJvcGVydHk+DQogICAgPHByb3BlcnR5IG5hbWU9IlRhYmJlZFBhbmVsVmVydGljYWxUZXh0T3JpZW50YXRpb24iPkRlZmF1bHQ8L3Byb3BlcnR5Pg0KICAgIDxwcm9wZXJ0eSBuYW1lPSJDdXN0b21SZXNpemVab25lVGhpY2tuZXNzIj4wPC9wcm9wZXJ0eT4NCiAgICA8cHJvcGVydHkgbmFtZT0iQ3Vyc29yRmxvYXRDYW5jZWxlZCIgaXNudWxsPSJ0cnVlIiAvPg0KICAgIDxwcm9wZXJ0eSBuYW1lPSJIaWRlSW1tZWRpYXRlbHlPbkF1dG9IaWRlIj5mYWxzZTwvcHJvcGVydHk+DQogICAgPHByb3BlcnR5IG5hbWU9IkhpZGVQYW5lbHNJbW1lZGlhdGVseSI+TmV2ZXI8L3Byb3BlcnR5Pg0KICAgIDxwcm9wZXJ0eSBuYW1lPSJDbG9zZUFjdGl2ZVRhYk9ubHkiPnRydWU8L3Byb3BlcnR5Pg0KICAgIDxwcm9wZXJ0eSBuYW1lPSJDbG9zZUFjdGl2ZUZsb2F0VGFiT25seSI+ZmFsc2U8L3Byb3BlcnR5Pg0KICAgIDxwcm9wZXJ0eSBuYW1lPSJTaG93Q2FwdGlvbk9uTW91c2VIb3ZlciI+ZmFsc2U8L3Byb3BlcnR5Pg0KICAgIDxwcm9wZXJ0eSBuYW1lPSJTaG93Q2FwdGlvbkltYWdlIj5mYWxzZTwvcHJvcGVydHk+DQogICAgPHByb3BlcnR5IG5hbWU9IkZsb2F0UGFuZWxzQWx3YXlzT25Ub3AiPkRlZmF1bHQ8L3Byb3BlcnR5Pg0KICAgIDxwcm9wZXJ0eSBuYW1lPSJBbGxvd1Jlc3RvcmVUb0F1dG9IaWRlQ29udGFpbmVyIj5mYWxzZTwvcHJvcGVydHk+DQogICAgPHByb3BlcnR5IG5hbWU9IkFsbG93RG9ja1RvQ2VudGVyIj5EZWZhdWx0PC9wcm9wZXJ0eT4NCiAgICA8cHJvcGVydHkgbmFtZT0iRG9ja1BhbmVsSW5UYWJDb250YWluZXJUYWJSZWdpb24iPkRvY2tJbW1lZGlhdGVseTwvcHJvcGVydHk+DQogICAgPHByb3BlcnR5IG5hbWU9IkRvY2tQYW5lbEluQ2FwdGlvblJlZ2lvbiI+RGVmYXVsdDwvcHJvcGVydHk+DQogICAgPHByb3BlcnR5IG5hbWU9IlNuYXBNb2RlIj5Ob25lPC9wcm9wZXJ0eT4NCiAgICA8cHJvcGVydHkgbmFtZT0iU2hvd01heGltaXplQnV0dG9uIj50cnVlPC9wcm9wZXJ0eT4NCiAgICA8cHJvcGVydHkgbmFtZT0iU2hvd01pbmltaXplQnV0dG9uIj50cnVlPC9wcm9wZXJ0eT4NCiAgICA8cHJvcGVydHkgbmFtZT0iU2hvd0F1dG9IaWRlQnV0dG9uIj50cnVlPC9wcm9wZXJ0eT4NCiAgICA8cHJvcGVydHkgbmFtZT0iU2hvd0Nsb3NlQnV0dG9uIj50cnVlPC9wcm9wZXJ0eT4NCiAgICA8cHJvcGVydHkgbmFtZT0iRmxvYXRPbkRibENsaWNrIj50cnVlPC9wcm9wZXJ0eT4NCiAgPC9wcm9wZXJ0eT4NCiAgPHByb3BlcnR5IG5hbWU9IkFjdGl2ZVBhbmVsSUQiPi0xPC9wcm9wZXJ0eT4NCiAgPHByb3BlcnR5IG5hbWU9Ilh0cmFTZXJpYWxpemFibGVTY3JlZW5Db25maWd1cmF0aW9uIiBpc2tleT0idHJ1ZSIgdmFsdWU9IjEiPg0KICAgIDxwcm9wZXJ0eSBuYW1lPSJJdGVtMSI+QDEsWD0wQDEsWT0wQDQsV2lkdGg9Mjg4MEA0LEhlaWdodD0xODAwPC9wcm9wZXJ0eT4NCiAgPC9wcm9wZXJ0eT4NCiAgPHByb3BlcnR5IG5hbWU9IlBhbmVscyIgaXNrZXk9InRydWUiIHZhbHVlPSIwIiAvPg0KICA8cHJvcGVydHkgbmFtZT0iVG9wWkluZGV4Q29udHJvbHMiIGlza2V5PSJ0cnVlIiB2YWx1ZT0iMiI+DQogICAgPHByb3BlcnR5IG5hbWU9Ikl0ZW0xIiB0eXBlPSJTeXN0ZW0uU3RyaW5nIj5EZXZFeHByZXNzLkV4cHJlc3NBcHAuV2luLlRlbXBsYXRlcy5SaWJib24uWGFmUmliYm9uQ29udHJvbFYyPC9wcm9wZXJ0eT4NCiAgICA8cHJvcGVydHkgbmFtZT0iSXRlbTIiIHR5cGU9IlN5c3RlbS5TdHJpbmciPkRldkV4cHJlc3MuWHRyYUJhcnMuUmliYm9uLlJpYmJvblN0YXR1c0JhcjwvcHJvcGVydHk+DQogIDwvcHJvcGVydHk+DQo8L1h0cmFTZXJpYWxpemVyPg==" IsNewNode="True">
+      <FormStates IsNewNode="True">
+        <FormState Id="Default" State="Maximized" X="423" Y="105" Width="2202" Height="1305" MaximizedOnScreen="\\.\DISPLAY1" IsNewNode="True" />
+      </FormStates>
+      <NavBarCustomization Width="400" IsNewNode="True" />
+    </Template>
+  </Templates>
+  <Views>
+    <DetailView Id="ChuongTrinhDaoTao_DetailView">
+      <Layout>
+        <LayoutGroup Id="Main" RelativeSize="100">
+          <LayoutGroup Id="SimpleEditors" RelativeSize="100">
+            <LayoutGroup Id="ChuongTrinhDaoTao" RelativeSize="22.727272727272727">
+              <LayoutItem Id="TenChuongTrinh" RelativeSize="37.05882352941177" />
+            </LayoutGroup>
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+    <ListView Id="ChuongTrinhDaoTao_KhungChuongTrinhs_ListView" ShowFindPanel="False" />
+    <ListView Id="DangKyHoc_DanhSachThis_ListView">
+      <Columns>
+        <ColumnInfo Id="DangKyHocDST" SortOrder="Descending" />
+      </Columns>
+    </ListView>
+    <ListView Id="KhungChuongTrinh_ListView" ShowFindPanel="False" GroupSummary="" />
+  </Views>
+</Application>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <Views Id="Views">
+    <DetailView Id="ChuongTrinhDaoTao_DetailView">
+      <Layout Id="Layout">
+        <LayoutGroup Id="Main">
+          <LayoutGroup Id="SimpleEditors">
+            <LayoutGroup Id="KhungChuongTrinhs_Group" TextAlignMode="AlignWithChildren" IsGroupCollapsed="False" Direction="Vertical" RelativeSize="77.27272727272727">
+              <LayoutItem Id="KhungChuongTrinhs" RelativeSize="100" />
+            </LayoutGroup>
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+  </Views>
+</Application>
