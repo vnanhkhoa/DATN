@@ -22,3 +22,16 @@ C:\Users\anhkh\source\repos\QLDT\QLDT.Module\obj\Debug\net6.0\QLDT.Module.dll
 C:\Users\anhkh\source\repos\QLDT\QLDT.Module\obj\Debug\net6.0\refint\QLDT.Module.dll
 C:\Users\anhkh\source\repos\QLDT\QLDT.Module\obj\Debug\net6.0\QLDT.Module.pdb
 C:\Users\anhkh\source\repos\QLDT\QLDT.Module\obj\Debug\net6.0\ref\QLDT.Module.dll
+C:\Users\anhkh\Source\Repos\vnanhkhoa\DATN\QLDT.Module\bin\Debug\net6.0\appsettings.json
+C:\Users\anhkh\Source\Repos\vnanhkhoa\DATN\QLDT.Module\bin\Debug\net6.0\QLDT.Module.deps.json
+C:\Users\anhkh\Source\Repos\vnanhkhoa\DATN\QLDT.Module\bin\Debug\net6.0\QLDT.Module.dll
+C:\Users\anhkh\Source\Repos\vnanhkhoa\DATN\QLDT.Module\bin\Debug\net6.0\QLDT.Module.pdb
+C:\Users\anhkh\Source\Repos\vnanhkhoa\DATN\QLDT.Module\obj\Debug\net6.0\QLDT.Module.csproj.AssemblyReference.cache
+C:\Users\anhkh\Source\Repos\vnanhkhoa\DATN\QLDT.Module\obj\Debug\net6.0\QLDT.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anhkh\Source\Repos\vnanhkhoa\DATN\QLDT.Module\obj\Debug\net6.0\QLDT.Module.AssemblyInfoInputs.cache
+C:\Users\anhkh\Source\Repos\vnanhkhoa\DATN\QLDT.Module\obj\Debug\net6.0\QLDT.Module.AssemblyInfo.cs
+C:\Users\anhkh\Source\Repos\vnanhkhoa\DATN\QLDT.Module\obj\Debug\net6.0\QLDT.Module.csproj.CoreCompileInputs.cache
+C:\Users\anhkh\Source\Repos\vnanhkhoa\DATN\QLDT.Module\obj\Debug\net6.0\QLDT.Module.dll
+C:\Users\anhkh\Source\Repos\vnanhkhoa\DATN\QLDT.Module\obj\Debug\net6.0\refint\QLDT.Module.dll
+C:\Users\anhkh\Source\Repos\vnanhkhoa\DATN\QLDT.Module\obj\Debug\net6.0\QLDT.Module.pdb
+C:\Users\anhkh\Source\Repos\vnanhkhoa\DATN\QLDT.Module\obj\Debug\net6.0\ref\QLDT.Module.dll

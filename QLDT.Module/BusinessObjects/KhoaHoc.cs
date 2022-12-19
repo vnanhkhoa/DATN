@@ -27,7 +27,6 @@ namespace QLDT.Module.BusinessObjects
             set { SetPropertyValue<string>(nameof(TenKhoaHoc), ref _TenKhoaHoc, value); }
         }
 
-
         private DateTime _NgayBatDau;
         [XafDisplayName("Ngày Bắt Đầu")]
         public DateTime NgayBatDau
@@ -35,7 +34,6 @@ namespace QLDT.Module.BusinessObjects
             get { return _NgayBatDau; }
             set { SetPropertyValue<DateTime>(nameof(NgayBatDau), ref _NgayBatDau, value); }
         }
-
 
         private DateTime _NgayKetThuc;
         [XafDisplayName("Ngày Kết Thúc")]

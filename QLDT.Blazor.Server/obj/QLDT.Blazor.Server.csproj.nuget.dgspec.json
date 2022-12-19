@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anhkh\\source\\repos\\QLDT\\QLDT.Blazor.Server\\QLDT.Blazor.Server.csproj": {}
+    "C:\\Users\\anhkh\\source\\repos\\vnanhkhoa\\DATN\\QLDT.Blazor.Server\\QLDT.Blazor.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anhkh\\source\\repos\\QLDT\\QLDT.Blazor.Server\\QLDT.Blazor.Server.csproj": {
+    "C:\\Users\\anhkh\\source\\repos\\vnanhkhoa\\DATN\\QLDT.Blazor.Server\\QLDT.Blazor.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anhkh\\source\\repos\\QLDT\\QLDT.Blazor.Server\\QLDT.Blazor.Server.csproj",
+        "projectUniqueName": "C:\\Users\\anhkh\\source\\repos\\vnanhkhoa\\DATN\\QLDT.Blazor.Server\\QLDT.Blazor.Server.csproj",
         "projectName": "QLDT.Blazor.Server",
-        "projectPath": "C:\\Users\\anhkh\\source\\repos\\QLDT\\QLDT.Blazor.Server\\QLDT.Blazor.Server.csproj",
+        "projectPath": "C:\\Users\\anhkh\\source\\repos\\vnanhkhoa\\DATN\\QLDT.Blazor.Server\\QLDT.Blazor.Server.csproj",
         "packagesPath": "C:\\Users\\anhkh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anhkh\\source\\repos\\QLDT\\QLDT.Blazor.Server\\obj\\",
+        "outputPath": "C:\\Users\\anhkh\\source\\repos\\vnanhkhoa\\DATN\\QLDT.Blazor.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
@@ -35,8 +35,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\anhkh\\source\\repos\\QLDT\\QLDT.Module\\QLDT.Module.csproj": {
-                "projectPath": "C:\\Users\\anhkh\\source\\repos\\QLDT\\QLDT.Module\\QLDT.Module.csproj"
+              "C:\\Users\\anhkh\\source\\repos\\vnanhkhoa\\DATN\\QLDT.Module\\QLDT.Module.csproj": {
+                "projectPath": "C:\\Users\\anhkh\\source\\repos\\vnanhkhoa\\DATN\\QLDT.Module\\QLDT.Module.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "C:\\Users\\anhkh\\source\\repos\\QLDT\\QLDT.Module\\QLDT.Module.csproj": {
+    "C:\\Users\\anhkh\\source\\repos\\vnanhkhoa\\DATN\\QLDT.Module\\QLDT.Module.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anhkh\\source\\repos\\QLDT\\QLDT.Module\\QLDT.Module.csproj",
+        "projectUniqueName": "C:\\Users\\anhkh\\source\\repos\\vnanhkhoa\\DATN\\QLDT.Module\\QLDT.Module.csproj",
         "projectName": "QLDT.Module",
-        "projectPath": "C:\\Users\\anhkh\\source\\repos\\QLDT\\QLDT.Module\\QLDT.Module.csproj",
+        "projectPath": "C:\\Users\\anhkh\\source\\repos\\vnanhkhoa\\DATN\\QLDT.Module\\QLDT.Module.csproj",
         "packagesPath": "C:\\Users\\anhkh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anhkh\\source\\repos\\QLDT\\QLDT.Module\\obj\\",
+        "outputPath": "C:\\Users\\anhkh\\source\\repos\\vnanhkhoa\\DATN\\QLDT.Module\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",

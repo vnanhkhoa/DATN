@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qsQi51p0KBvHz1FjujyzdS6GKb/PL+59TXSMMDU0qEr+N+9oYrHQqaFcPFIxBI3yuoQGHv5IAslu/pkUkhRfSQ==",
+  "dgSpecHash": "fJAzdj49csxYsyRIAFPTXi4hFYBhLI+ZGi/KNGAeQvXaIO3G7bSVXs2Wh8oPLyqFWJzWX5DYqOuOqYX//LJKbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anhkh\\source\\repos\\QLDT\\QLDT.Module\\QLDT.Module.csproj",
+  "projectFilePath": "C:\\Users\\anhkh\\source\\repos\\vnanhkhoa\\DATN\\QLDT.Module\\QLDT.Module.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.codeparser\\22.1.5\\devexpress.codeparser.22.1.5.nupkg.sha512",
     "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.data\\22.1.5\\devexpress.data.22.1.5.nupkg.sha512",
