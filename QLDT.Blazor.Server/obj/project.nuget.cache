@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3qFVjWfNe6rQzolVV2cRdehqQZ98Wx0YCO/XyoHGWS/BykRSRiPyBIX2iR8Kg3OKEDPZaqQpfJuH451lsdSbKw==",
+  "dgSpecHash": "CGRjIbI25xTjK8GbQM1dtl1ye4Ay0JPlg8p+uLzDmy/vlOG/lm18aRJAoCYKrGxTdbaFqGVMVz8+/wja3wUTdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anhkh\\source\\repos\\QLDT\\QLDT.Blazor.Server\\QLDT.Blazor.Server.csproj",
+  "projectFilePath": "C:\\Users\\anhkh\\source\\repos\\vnanhkhoa\\DATN\\QLDT.Blazor.Server\\QLDT.Blazor.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor\\22.1.5\\devexpress.blazor.22.1.5.nupkg.sha512",
     "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.blazor.themes\\22.1.5\\devexpress.blazor.themes.22.1.5.nupkg.sha512",

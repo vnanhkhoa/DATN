@@ -1,4 +1,5 @@
 ﻿using DevExpress.ExpressApp.DC;
+using DevExpress.ExpressApp.Model;
 using DevExpress.Persistent.Base;
 using DevExpress.Persistent.BaseImpl;
 using DevExpress.Xpo;
@@ -41,7 +42,10 @@ namespace QLDT.Module.BusinessObjects
         public double? ChuyenCan
         {
             get { return _ChuyenCan; }
-            set { SetPropertyValue<double?>(nameof(ChuyenCan), ref _ChuyenCan, value); }
+            set {
+                bool isModified = SetPropertyValue<double?>(nameof(ChuyenCan), ref _ChuyenCan, value);
+                if (isModified && !IsLoading && !IsSaving && !IsDeleted) Tinhdiem();
+            }
         }
 
 
@@ -68,7 +72,10 @@ namespace QLDT.Module.BusinessObjects
         public double? GiuaKy
         {
             get { return _GiuaKy; }
-            set { SetPropertyValue<double?>(nameof(GiuaKy), ref _GiuaKy, value); }
+            set {
+                bool isModified = SetPropertyValue<double?>(nameof(GiuaKy), ref _GiuaKy, value);
+                if (isModified && !IsLoading && !IsSaving && !IsDeleted) Tinhdiem();
+            }
         }
 
 
@@ -77,16 +84,22 @@ namespace QLDT.Module.BusinessObjects
         public double? CuoiKy
         {
             get { return _CuoiKy; }
-            set { SetPropertyValue<double?>(nameof(CuoiKy), ref _CuoiKy, value); }
+            set {
+                bool isModified = SetPropertyValue<double?>(nameof(CuoiKy), ref _CuoiKy, value);
+                if (isModified && !IsLoading && !IsSaving && !IsDeleted) Tinhdiem();
+            }
         }
 
 
         private double? _TongKet;
-        [XafDisplayName("Tổng Kết")]
+        [XafDisplayName("Tổng Kết"), ModelDefault("AllowEdit", "false")]
         public double? TongKet
         {
             get { return _TongKet; }
-            set { SetPropertyValue<double?>(nameof(TongKet), ref _TongKet, value); }
+            set {
+                bool isModified = SetPropertyValue<double?>(nameof(TongKet), ref _TongKet, value);
+                if (isModified && !IsLoading && !IsSaving && !IsDeleted) Tinhdiem();
+            }
         }
 
 
@@ -106,6 +119,10 @@ namespace QLDT.Module.BusinessObjects
             set { SetPropertyValue<string>(nameof(GhiChu), ref _GhiChu, value); }
         }
 
-
+        private void Tinhdiem()
+        {
+            if (ChuyenCan != null && GiuaKy != null && CuoiKy != null)
+                TongKet = ChuyenCan * 0.2 + GiuaKy * 0.3 + CuoiKy * 0.5;
+        }
     }
 }

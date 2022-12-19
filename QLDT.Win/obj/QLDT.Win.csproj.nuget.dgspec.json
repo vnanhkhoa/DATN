@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anhkh\\source\\repos\\QLDT\\QLDT.Win\\QLDT.Win.csproj": {}
+    "C:\\Users\\anhkh\\source\\repos\\vnanhkhoa\\DATN\\QLDT.Win\\QLDT.Win.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anhkh\\source\\repos\\QLDT\\QLDT.Module\\QLDT.Module.csproj": {
+    "C:\\Users\\anhkh\\source\\repos\\vnanhkhoa\\DATN\\QLDT.Module\\QLDT.Module.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anhkh\\source\\repos\\QLDT\\QLDT.Module\\QLDT.Module.csproj",
+        "projectUniqueName": "C:\\Users\\anhkh\\source\\repos\\vnanhkhoa\\DATN\\QLDT.Module\\QLDT.Module.csproj",
         "projectName": "QLDT.Module",
-        "projectPath": "C:\\Users\\anhkh\\source\\repos\\QLDT\\QLDT.Module\\QLDT.Module.csproj",
+        "projectPath": "C:\\Users\\anhkh\\source\\repos\\vnanhkhoa\\DATN\\QLDT.Module\\QLDT.Module.csproj",
         "packagesPath": "C:\\Users\\anhkh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anhkh\\source\\repos\\QLDT\\QLDT.Module\\obj\\",
+        "outputPath": "C:\\Users\\anhkh\\source\\repos\\vnanhkhoa\\DATN\\QLDT.Module\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
@@ -92,14 +92,14 @@
         }
       }
     },
-    "C:\\Users\\anhkh\\source\\repos\\QLDT\\QLDT.Win\\QLDT.Win.csproj": {
+    "C:\\Users\\anhkh\\source\\repos\\vnanhkhoa\\DATN\\QLDT.Win\\QLDT.Win.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anhkh\\source\\repos\\QLDT\\QLDT.Win\\QLDT.Win.csproj",
+        "projectUniqueName": "C:\\Users\\anhkh\\source\\repos\\vnanhkhoa\\DATN\\QLDT.Win\\QLDT.Win.csproj",
         "projectName": "QLDT.Win",
-        "projectPath": "C:\\Users\\anhkh\\source\\repos\\QLDT\\QLDT.Win\\QLDT.Win.csproj",
+        "projectPath": "C:\\Users\\anhkh\\source\\repos\\vnanhkhoa\\DATN\\QLDT.Win\\QLDT.Win.csproj",
         "packagesPath": "C:\\Users\\anhkh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anhkh\\source\\repos\\QLDT\\QLDT.Win\\obj\\",
+        "outputPath": "C:\\Users\\anhkh\\source\\repos\\vnanhkhoa\\DATN\\QLDT.Win\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
@@ -123,8 +123,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\anhkh\\source\\repos\\QLDT\\QLDT.Module\\QLDT.Module.csproj": {
-                "projectPath": "C:\\Users\\anhkh\\source\\repos\\QLDT\\QLDT.Module\\QLDT.Module.csproj"
+              "C:\\Users\\anhkh\\source\\repos\\vnanhkhoa\\DATN\\QLDT.Module\\QLDT.Module.csproj": {
+                "projectPath": "C:\\Users\\anhkh\\source\\repos\\vnanhkhoa\\DATN\\QLDT.Module\\QLDT.Module.csproj"
               }
             }
           }

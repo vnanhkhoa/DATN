@@ -147,6 +147,7 @@
         <ColumnInfo Id="GhiChu" Index="2" />
       </Columns>
     </ListView>
+    <ListView Id="LopHocPhan_BangDiemLopHPs_ListView" AllowEdit="True" AllowLink="False" AllowNew="False" AllowUnlink="False" NewItemRowPosition="Top" ShowAutoFilterRow="True" />
     <ListView Id="MonHoc_BangDiemKhoaHocs_ListView">
       <Columns>
         <ColumnInfo Id="DangKyHocBDKH" Caption="Học Viên" Index="0" />

@@ -57,12 +57,12 @@ namespace QLDT.Module.BusinessObjects
             set { SetPropertyValue<string>(nameof(CongThucDiem), ref _CongThucDiem, value); }
         }
 
-        private string _TrangThai;
+        private Status _TrangThai;
         [XafDisplayName("Trạng Thái")]
-        public string TrangThai
+        public Status TrangThai
         {
             get { return _TrangThai; }
-            set { SetPropertyValue<string>(nameof(TrangThai), ref _TrangThai, value); }
+            set { SetPropertyValue<Status>(nameof(TrangThai), ref _TrangThai, value); }
         }
 
         private string _LichHoc;
@@ -102,6 +102,13 @@ namespace QLDT.Module.BusinessObjects
         public int? SoHV
         {
             get { return BangDiemLopHPs?.Count; }
+        }
+
+        public enum Status
+        {
+            Start,
+            Progress,
+            End
         }
     }
 }

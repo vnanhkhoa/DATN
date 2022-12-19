@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NiKyNM52632w1kwNhcn+aJvS4OuLk1jCNjj32MqcL+7440YLNXi9v/aNDRzCeDAIDKhljD4Np45nTDwVBFEmnA==",
+  "dgSpecHash": "lo5mvVm2hfGHIWw1J11XpkuBb4Sj0I7MQEGqVrM3ApVILnxJu6FEkJj9zyATiNhElF/lKVuErNgUVRZM6fmHOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anhkh\\source\\repos\\QLDT\\QLDT.Win\\QLDT.Win.csproj",
+  "projectFilePath": "C:\\Users\\anhkh\\source\\repos\\vnanhkhoa\\DATN\\QLDT.Win\\QLDT.Win.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.charts\\22.1.5\\devexpress.charts.22.1.5.nupkg.sha512",
     "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.charts.core\\22.1.5\\devexpress.charts.core.22.1.5.nupkg.sha512",
